@@ -1,0 +1,42 @@
+
+header{background-color:#e8ecd6;
+       padding-top:1px;font-family:Philosopher;}
+body{background-color:#fdfff0;}
+footer{background-color:#e8ecd6;
+      font-family:Philosopher;
+      margin-top:50px;
+      padding:20px; }
+.banner{height 96px; width:1200px; margin-left:200px}
+h1{font-weight:300px;
+   text-align:center;
+  color:red;
+   font-family:Philosopher;}
+
+.cityTour{font-weight:200px;
+          text-align:center;
+          font-style:italic;
+          font-size:15px;}
+
+p{font-weight:500px;line-height:1.5em;}
+
+img{box-shadow:1px 7px 20px rgb(0 0 0); 
+    width:300px;height:200px;
+    margin-right:2em;}
+
+
+.content{font-size:17px;
+         font-family:Roboto;
+         text-decoration:underline;}
+.list{font-size:15px;}
+
+.Toursite {font-size:20px; margin-top:100px;}
+.Parks{font-size:20px;}
+.Dishes {font-size:20px;}
+
+.famousdish{margin:50px 0px 0px 0px;}
+
+h3{margin-top:30px;}
+
+.click:hover{text-shadow:1px 1px 3px teal;}
+
+.footer{font-size:15px;}
